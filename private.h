@@ -4,4 +4,5 @@
 
 std::string add_suffix() {
   return "_private";
+  
 }
